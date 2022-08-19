@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about more programming languages and about blockchains;
 - 💞️ I’m looking to collaborate on web projects;
 - 📫 If you want to talk with me, just send an email:
-  var email : moisespsantanna@gmail.com
+  var email : contato.moisessantanna@gmail.com
 
 <!---
 moi74/moi74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
