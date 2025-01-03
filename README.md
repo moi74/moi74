@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @moi74
+- 👋 Hi, I’m Moisés Sant'Anna.
 - 👀 I’m interested in FullStack programming;
-- 🌱 I’m currently learning about more programming languages and about blockchains;
-- 💞️ I’m looking to collaborate on web projects;
+- 🌱 I’m currently learning about more programming languages;
 - 📫 If you want to talk with me, just send an email:
   var email : contato.moisessantanna@gmail.com
 
